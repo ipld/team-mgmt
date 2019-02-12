@@ -2,7 +2,7 @@
 
 IPLD is a set of standards and implementations for creating decentralized data-structures that are universally addressable and linkable. These structures will allow us to do for data what URLs and links did for HTML web pages.
 
-This repo tracks project management issues like our bi-weekly call or quarterly OKRs planning. For general information about IPLD, refer to the [IPLD website](https://ipld.io.io/) or [the main repo](https://github.com/ipld/ipld).
+This repo tracks project management issues like our bi-weekly call or quarterly [OKRs](okr) planning. For general information about IPLD, refer to the [IPLD website](https://ipld.io.io/) or [the main repo](https://github.com/ipld/ipld).
 
 # Bi-weekly call
 
