@@ -1,4 +1,4 @@
-# 🖧 IPLD Bi-Weekly Sync 🙌🏽 2018-11-26
+# 🖧 IPLD Every-two-weeks Sync 🙌🏽 2018-11-26
 
 - **Lead:** @vmx
 - **Notetaker:**
