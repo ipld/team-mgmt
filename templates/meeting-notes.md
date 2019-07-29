@@ -1,4 +1,4 @@
-# 🖧 IPLD Every-two-weeks Sync 🙌🏽 2018-11-26
+# 🖧 IPLD Weekly Sync 🙌🏽 2019-07-29
 
 - **Lead:** @vmx
 - **Notetaker:**
@@ -25,7 +25,7 @@
 <!-- After each call, the notetaker submits a PR to https://github.com/ipld/team-mgmt to store the notes on the meeting-notes folder -->
 
 
-### Two-week Update
+### Weekly Update
 
 @yourname
  - _add what you've been working on_
