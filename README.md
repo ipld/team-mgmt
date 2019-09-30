@@ -12,7 +12,7 @@ Link to join the call: https://protocol.zoom.us/j/935904840 (note: it’s record
 
 Anyone is welcome to join! If it’s fine to come if you just want to learn about IPLD.
 
-The meeting notes are taken on CryptPad: https://cryptpad.fr/code/#/2/code/edit/Qanrbrr64RW756+NIjLeM8xi/
+The meeting notes are taken on HackMD: https://hackmd.io/PjKSfch8QNOY4uNrnrRbDA
 
 Feel free to add agenda item for the next meeting.
 
