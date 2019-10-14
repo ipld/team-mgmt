@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Convert a Markdown file into a PL Meeting GitHub PR</title>
+    <link rel="stylesheet" href="tachyons-4.10.0.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="script.js"></script>
+  </head>
+  <body class="open-sans ipld-gray">
+    <header class="flex items-center pa3 bg-white">
+      <a href="https://ipld.io" title="home" class="w-50">
+        <img src="https://ipld.io/img/ipld.svg" style="height: 50px" />
+      </a>
+      <h1 class="w-50 ma0 tr f3 fw2 ipld-gray">Meeting PR Creator</h1>
+    </header>
+    <form>
+      <li>
+        <ol>
+          <label for="notes" class="f6 b db mb2">Notes URL</label>
+          <input id="notes" type="url"
+            placeholder="https://hackmd.io/PjKSfch8QNOY4uNrnrRbDA/download"
+            class="input-reset ba b--black-20 pa2 mb2 db w-70">
+        </ol>
+        <ol>
+          <label for="date" class="f6 b db mb2">Meeting date</label>
+          <input id="date" type="date" required
+            class="input-reset ba b--black-20 pa2 mb2 db">
+        </ol>
+        <ol>
+          <label for="destination" class="f6 b db mb2">File location ("${date}" contains the <em>Meeting Date</em>)</label>
+          <input id="destination" type="url"
+            placeholder="https://github.com/ipld/team-mgmt/blob/master/meeting-notes/2019/${date}--ipld-sync.md"
+            class="input-reset ba b--black-20 pa2 mb2 db w-70">
+        </ol>
+        <ol>
+          <label for="branch" class="f6 b db mb2">Branch name ("${date}" contains the <em>Meeting Date</em>)</label>
+          <input id="branch" type="text" placeholder="weekly-sync-${date}"
+            class="input-reset ba b--black-20 pa2 mb2 db w-70">
+        </ol>
+        <ol>
+          <label for="commit-message" class="f6 b db mb2">Commit message "${date}" contains the <em>Meeting Date</em>)</label>
+          <textarea id="commit-message" type="text" rows="5"
+            placeholder="Add weekly sync meeting notes ${date}"
+            class="input-reset ba b--black-20 pa2 mb2 db w-70"></textarea>
+        </ol>
+        <ol>
+          <button type="submit"
+            class="f6 ba b--black-20 input-reset dim link pa2 mb2 pointer white bg-ipld-dark-blue">
+            Create PR
+          </button>
+        </ol>
+      </li>
+    </form>
+  </body>
+</html>
