@@ -16,7 +16,7 @@ The meeting notes are taken on HackMD: https://hackmd.io/PjKSfch8QNOY4uNrnrRbDA
 
 Feel free to add agenda item for the next meeting.
 
-We also archive [the meeting notes of the previous calls](https://github.com/ipld/team-mgmt/tree/master/meeting-notes) for anyone interested.
+We also archive [the meeting notes of the previous calls](https://github.com/ipld/team-mgmt/tree/master/meeting-notes) for anyone interested (to archive the notes you can use [this helper](https://ipld.github.io/team-mgmt/docs/index.html)).
 
 # Other ways to get involved in IPLD
 
