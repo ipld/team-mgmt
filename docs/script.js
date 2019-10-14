@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
     } = await getValues()
 
     // Encode everything correctly
-    let url = encodeURI(`https://github.com/${org}/${repo}/new/${branch}/${directory}/?filename=${filename}&target_branch=${targetBranch}&message=${commitSubject}&description=${commitDescription}&value=`)
+    let url = encodeURI(`https://github.com/${org}/${repo}/new/${branch}?filename=${directory}/${filename}&target_branch=${targetBranch}&message=${commitSubject}&description=${commitDescription}&value=`)
     url += encodeURIComponent(notes)
 
     // Send the user to the new PR
