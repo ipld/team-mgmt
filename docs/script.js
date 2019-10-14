@@ -37,7 +37,7 @@ const parseDestination = (destination) => {
 // Get all the values to construct the URL
 const getValues = async () => {
   const notesUrl = valueOrPlaceholder('notes')
-  const notes = await (await fetch(notesUrl)).text()
+  const notes = await (await fetch(notesUrl, {cache: 'no-store'})).text()
   const date = valueOrPlaceholder('date')
   const destination = valueOrPlaceholder('destination')
   const {
