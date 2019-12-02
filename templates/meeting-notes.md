@@ -20,12 +20,13 @@
   - _add your agenda item_
 
 
+## Weekly Update
+
+@yourname
+ - _add what you've been working on_
+
+
 ## Notes
 
 <!-- After each call, the notetaker submits a PR to https://github.com/ipld/team-mgmt to store the notes on the meeting-notes folder -->
 
-
-### Weekly Update
-
-@yourname
- - _add what you've been working on_
