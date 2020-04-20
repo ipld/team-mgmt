@@ -6,7 +6,7 @@ This repo tracks project management issues like our calls or quarterly [OKRs](ok
 
 # Weekly call
 
-We run a an IPLD call every week **Monday 21:00–21:30 UTC**. You also find it on the [IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC)
+We run a an IPLD call every week **Monday 21:00–22:00 UTC**. You also find it on the [IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC)
 
 Link to join the call: https://protocol.zoom.us/j/935904840 (note: it’s recorded, [live streamed](https://www.youtube.com/c/IPFS-dweb/live) and public)
 
