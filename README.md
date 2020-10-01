@@ -39,13 +39,13 @@ long term project effort at a time.
   * *`[research-engineering]`* [dagdb](https://github.com/mikeal/dagdb), [ZDAG](https://github.com/mikeal/ZDAG), [simple-dag](https://github.com/mikeal/simple-dag), [ipmd](https://github.com/mikeal/ipmd)
 * @rvagg
   * **`[P0]`** Fixtures and compliance tests for IPLD protocols.
-  * *`[maintainership]`* formats: bitcoin, zcash, eth, dag-pb, dag-cbor
+  * *`[maintainership]`* formats: bitcoin, zcash, eth, dag-pb, dag-cbor, CAR, HAMT
   * *`[research-engineering]`* Explore and define how JS IPLD applications are structured.
 * @warpfork
   * **`[P0]`** Docs and specifications.
   * **`[P1]`** self-hosted go codegen emitting types for its own type info; aiming for codegen tool CLI
   * *`[ongoing]`* Interface changes to go-ipld-prime ((notes)[https://hackmd.io/g_wnjCq6R265Dz3yoU1j4w])
-  * *`[maintainership]`* go-ipld-prime
+  * *`[maintainership]`* go-ipld-prime, IPLD Schemas, IPLD Selectors
 * @ribasushi
   * **`[P0]`** End-to-end testing and fixes in Lotus for a complete and working [Discovery UI](https://filecoin.io/blog/intro-filecoin-discover/).
   * *`[maintainership]`* aws lotus client infra
@@ -59,7 +59,7 @@ long term project effort at a time.
 * @vmx
   * **`[P0]`** Upstream Rust Multihash/CID efforts and make downstream users ([libp2p](https://github.com/libp2p/rust-libp2p/), [libipld](https://github.com/ipfs-rust/rust-ipld), [Forest](https://github.com/ChainSafe/forest/)) use them.
   * **`[P1]`** Read-only WASM codecs (WASM can be used to traverse formats not natively supported).
-  * *`[maintainership]` rust-ipld, rust-multiformats
+  * *`[maintainership]`* rust-ipld, rust-multiformats
 
 ## Q4 2020
 
