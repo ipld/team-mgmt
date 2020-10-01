@@ -48,6 +48,9 @@ long term project effort at a time.
   * **`[P0]`** [js-graphsync](https://github.com/chafey/js-graphsync)
 * @mvdan
   * **`[P0]`** go HAMT ADL (using go codegen)
+* @vmx
+  * **`[P0]`** Upstream Rust Multihash/CID efforts and make downstream users ([libp2p](https://github.com/libp2p/rust-libp2p/), [libipld](https://github.com/ipfs-rust/rust-ipld), [Forest](https://github.com/ChainSafe/forest/)) use them.
+  * **`[P1]`** Read-only WASM codecs (WASM can be used to traverse formats not natively supported).
 
 ## Q4 2020
 
