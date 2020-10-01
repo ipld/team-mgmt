@@ -45,7 +45,7 @@ long term project effort at a time.
 * @warpfork
   * **`[P0]`** Docs and specifications.
   * **`[P1]`** self-hosted go codegen emitting types for its own type info; aiming for codegen tool CLI
-  * *`[ongoing]`* Interface changes to go-ipld-prime ((notes)[https://hackmd.io/g_wnjCq6R265Dz3yoU1j4w])
+  * *`[ongoing]`* Interface changes to go-ipld-prime ([notes](https://hackmd.io/g_wnjCq6R265Dz3yoU1j4w))
   * *`[maintainership]`* go-ipld-prime, IPLD Schemas, IPLD Selectors
 * @ribasushi
   * **`[P0]`** End-to-end testing and fixes in Lotus for a complete and working [Discovery UI](https://filecoin.io/blog/intro-filecoin-discover/).
