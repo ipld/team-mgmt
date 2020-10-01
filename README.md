@@ -45,6 +45,8 @@ long term project effort at a time.
   * **`[P0]`** End-to-end testing and fixes in Lotus for a complete and working [Discovery UI](https://filecoin.io/blog/intro-filecoin-discover/).
 * @chafey
   * **`[P0]`** [js-graphsync](https://github.com/chafey/js-graphsync)
+* @mvdan
+  * **`[P0]`** go-codegen HAMT ADL
 
 ## Q4 2020
 
