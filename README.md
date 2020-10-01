@@ -39,14 +39,15 @@ long term project effort at a time.
   * **`[P0]`** Fixtures and compliance tests for IPLD protocols.
   * *`[on deck]`* Explore and define how JS IPLD applications are structured.
 * @warpfork
-  * **`[P0]`** Interface changes to go-ipld-prime (part of codegen effort)
-  * *`[on deck]`* self-hosted codegen wired up to CI
+  * **`[P0]`** Docs and specifications.
+  * **`[P1]`** self-hosted go codegen emitting types for its own type info; aiming for codegen tool CLI
+  * *`[on deck]`* Interface changes to go-ipld-prime ((notes)[https://hackmd.io/g_wnjCq6R265Dz3yoU1j4w])
 * @ribasushi
   * **`[P0]`** End-to-end testing and fixes in Lotus for a complete and working [Discovery UI](https://filecoin.io/blog/intro-filecoin-discover/).
 * @chafey
   * **`[P0]`** [js-graphsync](https://github.com/chafey/js-graphsync)
 * @mvdan
-  * **`[P0]`** go-codegen HAMT ADL
+  * **`[P0]`** go HAMT ADL (using go codegen)
 
 ## Q4 2020
 
