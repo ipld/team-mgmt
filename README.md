@@ -25,7 +25,7 @@ We also archive [the meeting notes of the previous calls](https://github.com/ipl
 # The Team
 
 This is a list of what people are working on **right now** and also work items that are "on deck" or have been bumped
-down each person's priority list.
+down each person's priority list. It also captures some of the ongoing responsibilities each person has across the projects.
 
 You'll notice that nobody has more than one high priority item at a time. That's not because they don't work on other things,
 but every person on the team is a maintainer of numerous ongoing efforts and as a result only has time for one high priority mid to
