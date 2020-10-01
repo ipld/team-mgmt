@@ -35,17 +35,23 @@ long term project effort at a time.
 
 * @mikeal
   * **`[P0]`** Managing the team (this never changes or gets bumped)
+  * *`[maintainership]`* [js-multiformats](https://github.com/multiformats/js-multiformats), [@ipld/block](https://github.com/ipld/js-block), [ipjs](https://github.com/mikeal/ipjs)
+  * *`[research-engineering]`* [dagdb](https://github.com/mikeal/dagdb), [ZDAG](https://github.com/mikeal/ZDAG), [simple-dag](https://github.com/mikeal/simple-dag), [ipmd](https://github.com/mikeal/ipmd)
 * @rvagg
   * **`[P0]`** Fixtures and compliance tests for IPLD protocols.
-  * *`[on deck]`* Explore and define how JS IPLD applications are structured.
+  * *`[maintainership]`* formats: bitcoin, zcash, eth, dag-pb, dag-cbor
+  * *`[research-engineering]`* Explore and define how JS IPLD applications are structured.
 * @warpfork
   * **`[P0]`** Docs and specifications.
   * **`[P1]`** self-hosted go codegen emitting types for its own type info; aiming for codegen tool CLI
-  * *`[on deck]`* Interface changes to go-ipld-prime ((notes)[https://hackmd.io/g_wnjCq6R265Dz3yoU1j4w])
+  * *`[ongoing]`* Interface changes to go-ipld-prime ((notes)[https://hackmd.io/g_wnjCq6R265Dz3yoU1j4w])
+  * *`[maintainership]`* go-ipld-prime
 * @ribasushi
   * **`[P0]`** End-to-end testing and fixes in Lotus for a complete and working [Discovery UI](https://filecoin.io/blog/intro-filecoin-discover/).
+  * *`[maintainership]`* aws lotus client infra
 * @chafey
   * **`[P0]`** [js-graphsync](https://github.com/chafey/js-graphsync)
+  * *`[maintainership]`* [dumbo-drop](https://github.com/filecoin-shipyard/dumbo-drop)
 * @mvdan
   * **`[P0]`** go HAMT ADL (using go codegen)
   * **`[P1]`** help Rod with fixture and compliance tests for IPLD protocols
@@ -53,6 +59,7 @@ long term project effort at a time.
 * @vmx
   * **`[P0]`** Upstream Rust Multihash/CID efforts and make downstream users ([libp2p](https://github.com/libp2p/rust-libp2p/), [libipld](https://github.com/ipfs-rust/rust-ipld), [Forest](https://github.com/ChainSafe/forest/)) use them.
   * **`[P1]`** Read-only WASM codecs (WASM can be used to traverse formats not natively supported).
+  * *`[maintainership]` rust-ipld, rust-multiformats
 
 ## Q4 2020
 
