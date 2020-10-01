@@ -34,17 +34,17 @@ long term project effort at a time.
 *Last Updated: 09/30/2020*
 
 * @mikeal
-  * **P0**: Managing the team (this never changes or gets bumped)
+  * **`[P0]`** Managing the team (this never changes or gets bumped)
 * @rvagg
-  * **P0**: Fixtures and compliance tests for IPLD protocols.
-  * *on deck* Explore and define how JS IPLD applications are structured.
+  * **`[P0]`** Fixtures and compliance tests for IPLD protocols.
+  * *`[on deck]`* Explore and define how JS IPLD applications are structured.
 * @warpfork
-  * **PO**: Interface changes to go-ipld-prime (part of codegen effort)
-  * *on deck* self-hosted codegen wired up to CI
+  * **`[P0]`** Interface changes to go-ipld-prime (part of codegen effort)
+  * *`[on deck]`* self-hosted codegen wired up to CI
 * @ribasushi
-  * **PO**: End-to-end testing and fixes in Lotus for a complete and working [Discovery UI](https://filecoin.io/blog/intro-filecoin-discover/).
+  * **`[P0]`** End-to-end testing and fixes in Lotus for a complete and working [Discovery UI](https://filecoin.io/blog/intro-filecoin-discover/).
 * @chafey
-  * **PO**: [js-graphsync](https://github.com/chafey/js-graphsync)
+  * **`[P0]`** [js-graphsync](https://github.com/chafey/js-graphsync)
 
 ## Q4 2020
 
