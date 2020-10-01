@@ -39,7 +39,8 @@ long term project effort at a time.
   * *`[research-engineering]`* [dagdb](https://github.com/mikeal/dagdb), [ZDAG](https://github.com/mikeal/ZDAG), [simple-dag](https://github.com/mikeal/simple-dag), [ipmd](https://github.com/mikeal/ipmd)
 * @rvagg
   * **`[P0]`** Fixtures and compliance tests for IPLD protocols.
-  * *`[maintainership]`* formats: bitcoin, zcash, eth, dag-pb, dag-cbor, CAR, HAMT
+  * *`[maintainership]`* formats: bitcoin, zcash, eth, dag-pb, dag-cbor
+  * *`[maintainership]`* CAR, HAMT
   * *`[research-engineering]`* Explore and define how JS IPLD applications are structured.
 * @warpfork
   * **`[P0]`** Docs and specifications.
