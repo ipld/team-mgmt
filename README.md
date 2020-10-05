@@ -31,7 +31,7 @@ You'll notice that nobody has more than one high priority item at a time. That's
 but every person on the team is a maintainer of numerous ongoing efforts and as a result only has time for one high priority mid to
 long term project effort at a time.
 
-*Last Updated: 09/30/2020*
+*Last Updated: 10/05/2020*
 
 * @mikeal
   * **`[P0]`** Managing the team (this never changes or gets bumped)
