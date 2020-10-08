@@ -39,14 +39,14 @@ long term project effort at a time.
   * *`[research-engineering]`* [dagdb](https://github.com/mikeal/dagdb), [ZDAG](https://github.com/mikeal/ZDAG), [simple-dag](https://github.com/mikeal/simple-dag), [ipmd](https://github.com/mikeal/ipmd), [dkv](https://github.com/mikeal/dkv)
 * @rvagg
   * **`[P0]`** Fixtures and compliance tests for IPLD protocols.
-  * *`[maintainership]`* formats: bitcoin, zcash, eth, dag-pb, dag-cbor
-  * *`[maintainership]`* CAR, HAMT
+  * *`[maintainership]`* formats: bitcoin, zcash, eth, [dag-pb](https://specs.ipld.io/block-layer/codecs/dag-pb.html), [dag-cbor](https://specs.ipld.io/block-layer/codecs/dag-cbor.html)
+  * *`[maintainership]`* [CAR](https://specs.ipld.io/block-layer/content-addressable-archives.html), [HAMT](https://specs.ipld.io/data-structures/hashmap.html)
   * *`[research-engineering]`* Explore and define how JS IPLD applications are structured.
 * @warpfork
   * **`[P0]`** Docs and Specifications.
   * **`[P1]`** self-hosted go codegen emitting types for its own type info; aiming for codegen tool CLI
   * *`[ongoing]`* Interface changes to go-ipld-prime ([notes](https://hackmd.io/g_wnjCq6R265Dz3yoU1j4w))
-  * *`[maintainership]`* go-ipld-prime, IPLD Schemas, IPLD Selectors
+  * *`[maintainership]`* [go-ipld-prime](https://github.com/ipld/go-ipld-prime), [IPLD Schemas](https://specs.ipld.io/schemas/), [IPLD Selectors](https://specs.ipld.io/selectors/selectors.html)
 * @ribasushi
   * **`[P0]`** End-to-end testing and fixes in Lotus for a complete and working [Discovery UI](https://filecoin.io/blog/intro-filecoin-discover/).
   * *`[maintainership]`* aws lotus client infra
