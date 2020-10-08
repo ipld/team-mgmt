@@ -31,31 +31,32 @@ You'll notice that nobody has more than one high priority item at a time. That's
 but every person on the team is a maintainer of numerous ongoing efforts and as a result only has time for one high priority mid to
 long term project effort at a time.
 
-*Last Updated: 10/05/2020*
+*Last Updated: 10/08/2020*
 
 * @mikeal
   * **`[P0]`** Managing the team (this never changes or gets bumped)
   * *`[maintainership]`* [js-multiformats](https://github.com/multiformats/js-multiformats), [@ipld/block](https://github.com/ipld/js-block), [ipjs](https://github.com/mikeal/ipjs)
-  * *`[research-engineering]`* [dagdb](https://github.com/mikeal/dagdb), [ZDAG](https://github.com/mikeal/ZDAG), [simple-dag](https://github.com/mikeal/simple-dag), [ipmd](https://github.com/mikeal/ipmd)
+  * *`[research-engineering]`* [dagdb](https://github.com/mikeal/dagdb), [ZDAG](https://github.com/mikeal/ZDAG), [simple-dag](https://github.com/mikeal/simple-dag), [ipmd](https://github.com/mikeal/ipmd), [dkv](https://github.com/mikeal/dkv)
 * @rvagg
   * **`[P0]`** Fixtures and compliance tests for IPLD protocols.
   * *`[maintainership]`* formats: bitcoin, zcash, eth, dag-pb, dag-cbor
   * *`[maintainership]`* CAR, HAMT
   * *`[research-engineering]`* Explore and define how JS IPLD applications are structured.
 * @warpfork
-  * **`[P0]`** Docs and specifications.
+  * **`[P0]`** Docs and Specifications.
   * **`[P1]`** self-hosted go codegen emitting types for its own type info; aiming for codegen tool CLI
   * *`[ongoing]`* Interface changes to go-ipld-prime ([notes](https://hackmd.io/g_wnjCq6R265Dz3yoU1j4w))
   * *`[maintainership]`* go-ipld-prime, IPLD Schemas, IPLD Selectors
 * @ribasushi
   * **`[P0]`** End-to-end testing and fixes in Lotus for a complete and working [Discovery UI](https://filecoin.io/blog/intro-filecoin-discover/).
   * *`[maintainership]`* aws lotus client infra
+  * *`[ongoing]`* numerous filecoin launch related tasks
 * @chafey
   * **`[P0]`** [js-graphsync](https://github.com/chafey/js-graphsync)
   * *`[maintainership]`* [dumbo-drop](https://github.com/filecoin-shipyard/dumbo-drop)
 * @mvdan
   * **`[P0]`** go HAMT ADL (using go codegen)
-  * **`[P1]`** help Rod with fixture and compliance tests for IPLD protocols
+  * **`[P1]`** support Rod's fixture and compliance test work
   * **`[P1]`** write a handbook section to outline Go development at PL
 * @vmx
   * **`[P0]`** Upstream Rust Multihash/CID efforts and make downstream users ([libp2p](https://github.com/libp2p/rust-libp2p/), [libipld](https://github.com/ipfs-rust/rust-ipld), [Forest](https://github.com/ChainSafe/forest/)) use them.
