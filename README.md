@@ -39,6 +39,9 @@ long term project effort at a time.
   * *`[research-engineering]`* [dagdb](https://github.com/mikeal/dagdb), [ZDAG](https://github.com/mikeal/ZDAG), [simple-dag](https://github.com/mikeal/simple-dag), [ipmd](https://github.com/mikeal/ipmd), [dkv](https://github.com/mikeal/dkv)
 * @rvagg
   * **`[P0]`** Fixtures and compliance tests for IPLD protocols.
+  * **`[P1]`** Bulk block shape inspection - primarily for Filecoin - includes lots of IPLD Schema inference and validation work
+  * **`[P2]`** New JS CAR implementation - including new BlockStore interface(s)
+  * **`[P2]`** DAG-PB for ipld-prime
   * *`[maintainership]`* formats: bitcoin, zcash, eth, [dag-pb](https://specs.ipld.io/block-layer/codecs/dag-pb.html), [dag-cbor](https://specs.ipld.io/block-layer/codecs/dag-cbor.html)
   * *`[maintainership]`* [CAR](https://specs.ipld.io/block-layer/content-addressable-archives.html), [HAMT](https://specs.ipld.io/data-structures/hashmap.html)
   * *`[research-engineering]`* Explore and define how JS IPLD applications are structured.
