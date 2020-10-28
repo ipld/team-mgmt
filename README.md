@@ -31,12 +31,12 @@ You'll notice that nobody has more than one high priority item at a time. That's
 but every person on the team is a maintainer of numerous ongoing efforts and as a result only has time for one high priority mid to
 long term project effort at a time.
 
-*Last Updated: 10/08/2020*
+*Last Updated: 10/28/2020*
 
 * @mikeal
   * **`[P0]`** Managing the team (this never changes or gets bumped)
   * *`[maintainership]`* [js-multiformats](https://github.com/multiformats/js-multiformats), [@ipld/block](https://github.com/ipld/js-block), [ipjs](https://github.com/mikeal/ipjs)
-  * *`[research-engineering]`* [dagdb](https://github.com/mikeal/dagdb), [ZDAG](https://github.com/mikeal/ZDAG), [simple-dag](https://github.com/mikeal/simple-dag), [ipmd](https://github.com/mikeal/ipmd), [dkv](https://github.com/mikeal/dkv)
+  * *`[research-engineering]`* [dagdb](https://github.com/mikeal/dagdb), [ZDAG](https://github.com/mikeal/ZDAG), [simple-dag](https://github.com/mikeal/simple-dag), [ipmd](https://github.com/mikeal/ipmd), [dkv](https://github.com/mikeal/dkv), [fast-block-store](https://github.com/mikeal/fast-block-store)
 * @rvagg
   * **`[P0]`** Fixtures and compliance tests for IPLD protocols.
   * **`[P1]`** Bulk block shape inspection - primarily for Filecoin - includes lots of IPLD Schema inference and validation work
