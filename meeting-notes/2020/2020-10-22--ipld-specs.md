@@ -71,13 +71,13 @@ top row is the things we have in the data model Kind enum
 
 left column is how we solve the definition of maps
 
-|                  | `{string|bytes}` |  `{text|bytes}` | `{string|bytes|text}` |
-| ---------------- | ---------------- | --------------- | --------------------- |
-| `mapkey=string`  |                  |                 |                       |
-| `mapkey=bytes`   |                  |                 |                       |
-| `mapkey=text`    |                  |                 |                       |
-| `mapkey=[mixed]` |                  |                 |                       |
-| `[many mapkind]` |                  |                 |                       |
+|                  | `{string\|bytes}` | `{text\|bytes}` | `{string\|bytes\|text}` |
+| ---------------- | ----------------- | --------------- | ----------------------- |
+| `mapkey=string`  |                   |                 |                         |
+| `mapkey=bytes`   |                   |                 |                         |
+| `mapkey=text`    |                   |                 |                         |
+| `mapkey=[mixed]` |                   |                 |                         |
+| `[many mapkind]` |                   |                 |                         |
 
 ^ this is a prototype table developed during the conversation; we'll marinate on it
 
