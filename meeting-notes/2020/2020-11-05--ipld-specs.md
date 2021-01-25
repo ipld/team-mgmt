@@ -187,6 +187,8 @@ https://github.com/ipld/specs/issues/298
 We are a little concerned about licensing on specs... specs and docs are maybe a little different and we should be mindful on that.
 There are arguments against using code license for docs, but specs are distinctive.
 
+Disucssion that Apache-2.0 may include some patent protective language that we miss out on by switching to a pure CC-BY.
+
 Also, ask Ian.
 
 
