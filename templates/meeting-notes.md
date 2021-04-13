@@ -1,4 +1,4 @@
-# 🖧 IPLD Weekly Sync 🙌🏽 2019-07-29
+# 🖧 IPLD every two weeks sync 🙌🏽 2021-04-26
 
 - **Lead:** @vmx
 - **Notetaker:**
