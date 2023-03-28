@@ -8,9 +8,9 @@ refer to the [ipld.io website](https://ipld.io/),
 or [the main ipld/ipld repo](https://github.com/ipld/ipld)
 (which contains the documentation, specifications, website source, and main issue tracker.)
 
-# Every two weeks call
+# Every four weeks call
 
-We run a an IPLD call every two weeks (odd weeks) **Monday 21:00–22:00 UTC**. You also find it on the [IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC)
+We run a an IPLD call every four weeks (starting with week 17, 2023-04-23) **Monday 21:00–22:00 UTC**. You also find it on the [IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC)
 
 Link to join the call: https://protocol.zoom.us/j/935904840 (note: it’s recorded, [live streamed](https://www.youtube.com/c/IPFSbot/live) and public). An archive of all recorded calls can be found in the [IPLD playlist](https://www.youtube.com/playlist?list=PLuhRWgmPaHtRfR6VhISbSiPJ87rsN3Pb9).
 
